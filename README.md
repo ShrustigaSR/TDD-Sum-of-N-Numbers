@@ -52,6 +52,11 @@ python -m unittest discover -v
    coverage report -m
    ```
 
+4. **Generating the coverage report in HTML format**
+   ```bash
+   python -m coverage html 
+   ```
+
 ### Testcases
 
 ![testcases](https://github.com/ShrustigaSR/TDD-Sum-of-N-Numbers/assets/53357626/c935bd03-4d40-402a-a027-0b4411ec21cd)
